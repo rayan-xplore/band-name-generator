@@ -1,0 +1,7 @@
+print("welcome to brand name generator.\n")
+print("hello there!\n")
+name = input("what is your name?\n")
+print("hello " + name)
+place = input("where do you grew up?\n")
+fev_color = input("what is your favourite color?\n")
+print("your band name could be:" + place + fev_color)
